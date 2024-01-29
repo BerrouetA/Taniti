@@ -1,0 +1,32 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    background-color: #f1f1f1;
+    justify-content: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+#img {
+    
+    margin: 20px;
+    height: 400px;
+    width: 1000px;
+}
+button {
+    background-color: black;
+    color: white;
+    font-style: inherit;
+}
+article {
+     width: 1000px;
+     display: block;
+     font-style: italic;
+    
+}
