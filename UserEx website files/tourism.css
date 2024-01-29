@@ -1,0 +1,42 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div img {
+    width: 400px;
+    height: 300px;
+    border: 2px solid #ff3d0036;
+    border-radius: 13px;
+    box-shadow: 4px 7px 7px 0px #00000042;
+    cursor: pointer;
+    margin: 10px;
+    transition: 400ms;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+html {
+    background-color: #dfe2e8;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    background-color: #f1f1f1;
+    justify-content: center;
+    
+}
+li {
+    font-weight: bolder;
+}
